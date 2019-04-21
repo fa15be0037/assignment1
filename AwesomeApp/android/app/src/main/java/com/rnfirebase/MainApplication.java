@@ -1,4 +1,4 @@
-package com.awesomeapp;
+package com.rnfirebase;
 
 import android.app.Application;
 
